@@ -8,5 +8,7 @@ namespace ConsoleAppMJ
 {
     internal class NewClass
     {
+        public string Name { get; set; }
+        public string Description { get; set; }
     }
 }
